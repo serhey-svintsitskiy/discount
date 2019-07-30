@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: sergey
- * Date: 3/6/18
- * Time: 2:07 PM
- */
 
 namespace sergo_sv\discount;
 
